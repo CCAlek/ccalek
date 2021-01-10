@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/CCAlek/ccalek/blob/main/assets/photo.jpg)
 
 About me
 
