@@ -1,5 +1,4 @@
-![Header](https://github.com/CCAlek/ccalek/blob/main/assets/photo.jpg)
-
+<!--![Header](https://github.com/CCAlek/ccalek/blob/main/assets/photo.jpg)-->
 ## I'm a Software Engeneer
 
 Latest Youtube Videos
