@@ -1,8 +1,6 @@
 <!--![Header](https://github.com/CCAlek/ccalek/blob/main/assets/photo.jpg)-->
 ## I'm a Software Engeneer
 
-Latest Youtube Videos
-
 ## Languages and Tools
 ![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=swift)
 ![Xcode](https://img.shields.io/badge/-Xcode-090909?style=for-the-badge&logo=xcode)
@@ -13,10 +11,9 @@ Latest Youtube Videos
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ccalek&hide=stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Follow me
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccalek&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CCAlek/ccalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
