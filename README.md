@@ -3,7 +3,8 @@
 
 Latest Youtube Videos
 
-Languages and Tools
+## Languages and Tools
+![Swift](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
 
 Follow me
 
